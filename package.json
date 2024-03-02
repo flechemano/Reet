@@ -1,0 +1,17 @@
+{
+  "name": "Reet",
+  "version": "0.0.1",
+  "description": "A utility tool for running tips on your command line interface.",
+  "author": "flechemano",
+  "license": "MIT",
+  "repository": "url": "https://github.com/flechemano/Reet",
+  "bugs": {
+    "url": "https://github.com/flechemano/Reet/issues"
+  },
+  "homepage": "https://github.com/flechemano/Reet",
+  "dependencies": {
+    "npm": "^8.0.0",
+    "lodash": "^4.17.21",
+    "express": "^4.17.1"
+  }
+}
