@@ -1,24 +1,23 @@
 {
   "name": "@flechemano/reet",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A utility tool for running tips on your command line interface.",
-  "author": "flechemano",
+  "author": {
+    "name": "flechemano",
+    "email": "flechemano@gmail.com",
+    "url": "https://github.com/flechemano"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/flechemano/Reet.git,git@github.com:flechemano/Reet.git,https://github.com/Reet.git"
   },
-      "keywords": [
-        "npm",
-        "publish",
-        "package",
-        "registry"
-    ],
-    "author": {
-        "name": "flechemano",
-        "email": "flechemano@gmail.com",
-        "url": "https://github.com/flechemano"
-    },
+  "keywords": [
+    "npm",
+    "publish",
+    "package",
+    "registry"
+  ],
   "bugs": {
     "url": "https://github.com/flechemano/Reet/issues"
   },
