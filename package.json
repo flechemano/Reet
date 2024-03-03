@@ -4,7 +4,7 @@
   "description": "A utility tool for running tips on your command line interface.",
   "author": "flechemano",
   "license": "MIT",
-  "repository": "https://github.com/flechemano/Reet",
+  "repository": "https://github.com/flechemano/Reet.git",
   "bugs": {
     "url": "https://github.com/flechemano/Reet/issues"
   },
