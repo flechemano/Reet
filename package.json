@@ -6,8 +6,19 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flechemano/Reet.git,git@github.com:flechemano/Reet.git"
+    "url": "git+https://github.com/flechemano/Reet.git,git@github.com:flechemano/Reet.git,https://github.com/Reet.git"
   },
+      "keywords": [
+        "npm",
+        "publish",
+        "package",
+        "registry"
+    ],
+    "author": {
+        "name": "flechemano",
+        "email": "flechemano@gmail.com",
+        "url": "https://github.com/flechemano"
+    },
   "bugs": {
     "url": "https://github.com/flechemano/Reet/issues"
   },
