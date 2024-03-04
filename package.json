@@ -1,6 +1,6 @@
 {
   "name": "@flechemano/reet",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A utility tool for running tips on your command line interface.",
   "author": {
     "name": "flechemano",
