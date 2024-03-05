@@ -1,11 +1,11 @@
+  GNU nano 6.2                                                                                               reete
 {
   "name": "reet024",
-  "version": "0.0.5",
-  "description": "A utility tool for running tips on your command line interface.",
-  "author": {
-    "name": "flechemano",
-    "email": "flechemano@gmail.com",
-    "url": "https://github.com/flechemano"
+  "version": "0.0.12",
+  "description": "This project was bootstrapped with Create React App.",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
   },
   "license": "MIT",
   "repository": {
@@ -23,8 +23,26 @@
   },
   "homepage": "https://github.com/flechemano/Reet",
   "dependencies": {
-    "express": "^4.17.1",
-    "lodash": "^4.17.21",
-    "npm": "^10.5.0"
-  }
+    "gulp": "^3.9.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^2.1.4",
+    "blacktea024": "^0.1.5"
+  },
+  "dependents": [
+    {
+      "name": "@flechemano/black-tea",
+      "version": "0.0.9"
+    },
+    {
+      "name": "blackteaswap024",
+      "version": "1.0.0"
+    }
+  ],
+  "author": "flechemano",
+  "devDependencies": {
+    "mocha": "^10.1.0"
+  },
+  "private": false
 }
