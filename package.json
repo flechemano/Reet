@@ -1,6 +1,6 @@
 {
   "name": "reet024",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "This project was bootstrapped with Create React App.",
   "scripts": {
     "start": "react-scripts start",
