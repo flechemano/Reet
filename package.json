@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flechemano/Reet.git,git@github.com:flechemano/Reet.git,https://github.com/Reet.git"
+    "url": "https://github.com/flechemano/Reet.git"
   },
   "keywords": [
     "npm",
