@@ -1,0 +1,13 @@
+[package]
+name = "reet024"
+version = "0.1.2"
+edition = "2024"
+description = "Keep you close"
+keywords = ["screen", "close", "tea", "black"]
+license = "MIT"
+catogories = ["command-line-utilityies"]
+authors = ["flechemano"]
+repository = "https://github.com/flechemano/Reet.git "
+
+[dependencies]
+enigo = "0.0.14"
